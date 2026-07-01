@@ -37,7 +37,7 @@ Strands Labs is the experimental arm of [Strands Agents](https://github.com/stra
 | **[benchmark-harnesses](https://github.com/strands-labs/benchmark-harnesses)** | Strands-based agents and harnesses for agentic benchmarks |
 | **[harness-optimizer](https://github.com/strands-labs/harness-optimizer)** | A framework for optimizing LLM agent harnesses through tunable Formulas - dynamically enhancing the agent and improving those Formulas with optimizers based on collected rollout trajectories |
 | **[pywebrtc-audio](https://github.com/strands-labs/pywebrtc-audio)** | Python bindings for WebRTC's audio processing pipeline - noise suppression, echo cancellation, automatic gain control, and voice activity detection via pybind11 |
-
+| **[strands-for-cosmos](https://github.com/strands-labs/strands-for-cosmos)** | NVIDIA Cosmos for Strands Agents. Give your agent eyes that understand physics and hands that generate video, audio, and robot actions - on local compute. |
 ---
 
 ### Contributing
